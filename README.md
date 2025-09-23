@@ -1,6 +1,6 @@
 # ICT-Projects-1-6
 
-- Activity 1 -> [Grocery](./Activity%201/Grocery.html)
+- Activity 1 -> [Grocery Lists](./Activity%201/Grocery Lists.html)
 - Activity 2 -> [Recipe](./Activity%202/recipe.html)
 - Activity 3 -> [Genre](./Activity%203/Movie.html)
 - Activity 4 -> [Inline](./Activity%204/navbar.html)
