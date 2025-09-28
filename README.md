@@ -5,4 +5,4 @@
 - Activity 3 -> [Genre](./Activity%203%20~%20favorite-movie-genres.html)
 - Activity 4 -> [Inline](./Acitivity%204%20~%20Navigation%20menu.html)
 - Activity 5 -> [Schedule](./Acitivity%205%20~%20Class%20schedule.html)
-- Activity 6 -> [Story](./Activity%206/story.html)
+- Activity 6 -> [Story](./Acitivity%206%20~%20My%20personal%20webpage%20using%20lists.html)
