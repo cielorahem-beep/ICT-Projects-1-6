@@ -35,7 +35,7 @@ Explore each activity below:
 
 ---
 
-> These are all the activities that I made.
+> These are all the activities that I made for my ICT Performance Task, and each one represents the effort and creativity I put into learning and applying HTML and web design concepts throughout this project..
 
 ---
 
