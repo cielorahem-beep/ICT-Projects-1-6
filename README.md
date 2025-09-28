@@ -1,4 +1,4 @@
-# ICT-Performance Task 1-6
+
 
 - Activity 1 > [Grocery Lists Webpage](./Activity%201%20~%20Grocery%20Lists.html)
 - Activity 2 > [Steps to Cook a Special Adobo](./Activity%202%20~%20Step-To%20Cook%20A%20DIsh.html)
